@@ -9,5 +9,5 @@ function createMyObject() {
     };
 }
 
-createMyObject();
-console.log(createMyObject.toString());
+
+
